@@ -16,10 +16,10 @@
 #output {
     display: grid;
     vertical-align: center;
-    line-height:50px ;
+    line-height:7vh;
     border: 2px solid black;
     border-radius: 8px;
-    padding: 0 5px;
+    padding: 0 1.2vh;
     box-sizing: border-box;
     height: 7.5vh;
     width: 90%;
@@ -45,7 +45,7 @@ button{
     background-color: rgb(200, 202, 202);
     box-shadow: inset 2px 2px 2px;
     border-radius: 15px;
-    padding:3vh 2vh;
+    padding:3vh 1vh;
     font-size: 2.5vh;
     font-weight: bolder;
     box-sizing: border-box;
@@ -81,3 +81,4 @@ button:hover{
     grid-row: 5/ 5;
     grid-column: 1 / 3;
 }
+
