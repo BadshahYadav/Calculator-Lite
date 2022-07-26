@@ -29,6 +29,7 @@
     color: whitesmoke;
     text-align: end;
     word-wrap: break-word;
+    overflow: hidden;
 }
 
 #output:hover{
